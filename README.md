@@ -29,3 +29,5 @@ LSOA_2011_EW_BGC_V2.shx
 The code should now run, and output a file gmpubdensity.png with the created map.
 
 Feel free to share, copy, re-use this code, but please give me credit if you publish it.
+
+Contact: harryrdance@gmail.com
